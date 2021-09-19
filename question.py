@@ -20,3 +20,5 @@ informatics-practices
 page 84 
 question 6
 """
+
+# What would be the next step?
